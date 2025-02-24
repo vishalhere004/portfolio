@@ -4,13 +4,13 @@
 
 Welcome to my **Web Developer Portfolio**! I specialize in **PHP, MySQL, CodeIgniter, OpenCart, and JavaScript** with 2+ years of experience building scalable web applications and optimizing backend performance.
 
-🌐 **Live Portfolio:** [vankey004.github.io/portfolio](https://vishalhere004.github.io/portfolio/)
+🌐 **Live Portfolio:** [vishalhere004.github.io/portfolio](https://vishalhere004.github.io/portfolio/)
 
 ## 📌 About Me
 I'm a passionate **Web Developer** skilled in building robust backend systems, creating RESTful APIs, and optimizing MySQL databases for efficiency. I have a strong understanding of OpenCart, CodeIgniter, and modern web technologies.
 
 🔗 **LinkedIn:** [linkedin.com/in/vishal-pant-a7368220a](https://linkedin.com/in/vishal-pant-a7368220a)  
-🔗 **GitHub:** [github.com/Vankey004](https://github.com/vishalhere004)  
+🔗 **GitHub:** [github.com/vishalhere004](https://github.com/vishalhere004)  
 📧 **Email:** [vishalpahadi4287@gmail.com](mailto:vishalpahadi4287@gmail.com)
 
 ## 🔥 Features of My Portfolio
