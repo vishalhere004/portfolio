@@ -21,8 +21,8 @@ I'm a passionate **Web Developer** skilled in building robust backend systems, c
 ✔ **Includes Resume & Contact Section**  
 
 ## 🛠 Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** PHP, CodeIgniter, OpenCart, MySQL
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Ionic-Angular
+- **Backend:** PHP, CodeIgniter, OpenCart, MySQL, Laravel
 - **API & Tools:** RESTful API, Postman, PhpMyAdmin
 - **Version Control:** Git & GitHub
 
