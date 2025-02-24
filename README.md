@@ -39,7 +39,7 @@ I'm a passionate **Web Developer** skilled in building robust backend systems, c
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Vankey004/portfolio.git
+   git clone https://github.com/vishalhere004/portfolio.git
    ```
 2. Open `index.html` in a browser OR deploy via GitHub Pages.
 
