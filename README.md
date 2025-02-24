@@ -26,7 +26,7 @@ I'm a passionate **Web Developer** skilled in building robust backend systems, c
 - **API & Tools:** RESTful API, Postman, PhpMyAdmin
 - **Version Control:** Git & GitHub
 
-## 📂 Projects
+## 📂 Personal Projects
 ### 1️⃣ **Chrome Ad Blocker Extension**
 - Developed a **Chrome extension** that blocks ads, improves page speed, and enhances user experience.
 - **Technologies Used:** JavaScript, Chrome API
