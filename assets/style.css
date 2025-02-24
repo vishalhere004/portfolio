@@ -252,6 +252,9 @@
     cursor: pointer;
     transition: background 0.3s ease;
   }
+  button.btn[disabled]:hover {
+    cursor: no-drop;
+  }
    button.btn:hover {
     background: #ff9900;
   }
@@ -376,6 +379,10 @@
         margin-bottom: 1.8rem;
         font-size: 1.1rem;
         font-weight: 500;
+    }
+    .menu-items li a{
+      text-decoration: none;
+      color: #ff9900;
     }
 
     .logo{
