@@ -1,6 +1,6 @@
 # 🚀 Vishal Pant | Web Developer Portfolio
 
-![Portfolio Preview](https://vankey004.github.io/portfolio/assets/preview-image.jpg)
+![Portfolio Preview]
 
 Welcome to my **Web Developer Portfolio**! I specialize in **PHP, MySQL, CodeIgniter, OpenCart, and JavaScript** with 2+ years of experience building scalable web applications and optimizing backend performance.
 
