@@ -4,13 +4,13 @@
 
 Welcome to my **Web Developer Portfolio**! I specialize in **PHP, MySQL, CodeIgniter, OpenCart, and JavaScript** with 2+ years of experience building scalable web applications and optimizing backend performance.
 
-🌐 **Live Portfolio:** [vankey004.github.io/portfolio](https://vankey004.github.io/portfolio/)
+🌐 **Live Portfolio:** [vankey004.github.io/portfolio](https://vishalhere004.github.io/portfolio/)
 
 ## 📌 About Me
 I'm a passionate **Web Developer** skilled in building robust backend systems, creating RESTful APIs, and optimizing MySQL databases for efficiency. I have a strong understanding of OpenCart, CodeIgniter, and modern web technologies.
 
 🔗 **LinkedIn:** [linkedin.com/in/vishal-pant-a7368220a](https://linkedin.com/in/vishal-pant-a7368220a)  
-🔗 **GitHub:** [github.com/Vankey004](https://github.com/Vankey004)  
+🔗 **GitHub:** [github.com/Vankey004](https://github.com/vishalhere004)  
 📧 **Email:** [vishalpahadi4287@gmail.com](mailto:vishalpahadi4287@gmail.com)
 
 ## 🔥 Features of My Portfolio
@@ -30,7 +30,7 @@ I'm a passionate **Web Developer** skilled in building robust backend systems, c
 ### 1️⃣ **Chrome Ad Blocker Extension**
 - Developed a **Chrome extension** that blocks ads, improves page speed, and enhances user experience.
 - **Technologies Used:** JavaScript, Chrome API
-- 🔗 [View on GitHub](https://github.com/Vankey004/add-blocker.git)
+- 🔗 [View on GitHub](https://github.com/vishalhere004/add-blocker.git)
 
 ### 2️⃣ **School Management System**
 - Web-based system for **student enrollment, attendance tracking, and fee management**.
